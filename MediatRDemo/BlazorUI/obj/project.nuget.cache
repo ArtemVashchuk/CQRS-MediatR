@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ouB1PicQAX2m7lQKBsq5h0a1ssZP0ONnuqHkz04QNxA5bAjUEp/uH/SaIuBaFeC3MRwyM7bsWXyfBjKJURW2KQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Artem\\source\\repos\\MediatRDemo\\BlazorUI\\BlazorUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Artem\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

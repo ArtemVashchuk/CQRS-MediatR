@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LM5BYMUEskkieN5yhxEoYGP29CbFZ/0UkaIFQ66v1zqPzjEkLBy4cZK6+QLjKWdxNynxw8QBE4l0PJRVlP2SQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Artem\\source\\repos\\MediatRDemo\\DemoLibrary\\DemoLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Artem\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
